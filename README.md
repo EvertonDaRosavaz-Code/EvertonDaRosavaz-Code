@@ -6,7 +6,7 @@
 
 <div>
     <h1>
-       - <i>Front-end e Back-end</i>
+       - <i>Front-end</i>
     </h1>
 </div>
 
