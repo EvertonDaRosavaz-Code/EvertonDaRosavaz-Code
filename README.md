@@ -1,6 +1,6 @@
 ## Ola, Meu nome é Everton
 - 🎒 Atualmente na escola
-- 👨‍💻 Estudando HTMl, CSS, JavaScript, Python e React-Native 
+- 👨‍💻 Estudando HTMl, CSS, JavaScript, React-Native, PHP, e Banco de dados 
 - 📞(55) 51 9-9805-7640
 
 
