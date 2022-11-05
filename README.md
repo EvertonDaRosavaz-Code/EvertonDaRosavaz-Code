@@ -6,9 +6,8 @@
 
 <div>
      <h1>
-        - <i>Front-end</i>
+        - <i>Front-end</i> <br>
         - <i>Back-end</i>
-        
      </h1>
  </div>
  
