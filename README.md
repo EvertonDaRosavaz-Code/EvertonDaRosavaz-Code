@@ -21,9 +21,12 @@
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
- 
-  <div><br>
+   <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968332.png" align="center" height="30" width="40">
+  
+   
+     
+     
+   <div><br>
      <img src="https://media0.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif?cid=ecf05e472ppt5t4qoo1y3p4ob76i8jjgwl6w241kq44hyqof&rid=giphy.gif&ct=g" alt="pinguin"               width="200px" height="200px" style="border-radius: 50px"> 
     </div>
 
