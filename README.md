@@ -27,7 +27,7 @@
      
      
    <div><br>
-     <img src="https://media0.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif?cid=ecf05e472ppt5t4qoo1y3p4ob76i8jjgwl6w241kq44hyqof&rid=giphy.gif&ct=g" alt="pinguin"               width="200px" height="200px" style="border-radius: 50px"> 
+     <img src="https://media3.giphy.com/media/hrdX1BsUBq7DkGJCCd/giphy.gif?cid=ecf05e47g0ukyjuduye894poe2tge3ysigdwpjtnx6ti2o5w&rid=giphy.gif&ct=g" alt="robo"               width="400px" height="200px"> 
     </div>
 
 </div>
