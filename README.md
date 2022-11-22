@@ -1,5 +1,4 @@
 ## Ola, Meu nome é Everton
-- 🎒 Atualmente na escola
 - 👨‍💻 Estudando HTMl, CSS, JavaScript, PHP, e Banco de dados 
 - 📞(55) 51 9-9805-7640
 
