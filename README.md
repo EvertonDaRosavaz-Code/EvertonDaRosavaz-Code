@@ -2,14 +2,11 @@
 - 👨‍💻 Estudando HTMl, CSS, JavaScript, PHP, e Banco de dados 
 - 📞(55) 51 9-9805-7640
 
-
-<div>
-     <h1>
-        - <i>Front-end</i> <br>
-        - <i>Back-end</i>
-     </h1>
- </div>
- 
+<div align="center">
+  <a href="https://github.com/EvertonDaRosavaz-Code">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonDaRosavaz-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonDaRosavaz-Code&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
  
    
@@ -22,7 +19,7 @@
    <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968332.png" align="center" height="30" width="40">
     <img src = "https://cdn-icons-png.flaticon.com/128/957/957532.png" align="center" height="30" width="40" >
   
-   
+   ##
      
      
    <div><br>
