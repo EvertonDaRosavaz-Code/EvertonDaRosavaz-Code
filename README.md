@@ -2,7 +2,7 @@
 - 👨‍💻 Estudando HTMl, CSS, JavaScript, PHP, e Banco de dados 
 - 📞(55) 51 9-9805-7640
 
-<div align="center"    style="display:flex">
+<div align="center"    style="display:flex" style="gap:5px">
   <a href="https://github.com/EvertonDaRosavaz-Code">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonDaRosavaz-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonDaRosavaz-Code&layout=compact&langs_count=7&theme=dark"/>
