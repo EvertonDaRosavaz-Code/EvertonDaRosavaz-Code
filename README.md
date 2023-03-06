@@ -15,7 +15,7 @@
     <img src = "https://cdn-icons-png.flaticon.com/128/957/957532.png" align="center" height="30" width="40" >
   
    ##
-     
+     [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/EvertonDaRosavaz-Code/github-readme-  stats)
      
    <div><br>
      <img src="https://media3.giphy.com/media/hrdX1BsUBq7DkGJCCd/giphy.gif?cid=ecf05e47g0ukyjuduye894poe2tge3ysigdwpjtnx6ti2o5w&rid=giphy.gif&ct=g" alt="robo"               width="400px" height="200px"> 
