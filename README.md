@@ -16,7 +16,7 @@
     <img src = "https://cdn-icons-png.flaticon.com/128/957/957532.png" align="center" height="30" width="40" > 
   
  ##
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonDaRosavaz-Code&show_icons=true&theme=radical)]
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonDaRosavaz-Code&show_icons=true&theme=radical)
 
    <div><br>
     
