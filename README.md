@@ -1,5 +1,5 @@
 ## Ola, Meu nome é Everton
-- 👨‍💻 Estudando HTMl, CSS, JavaScript, PHP, e Banco de dados 
+- 👨‍💻 Estudando HTMl, CSS, JavaScript, PHP, e Tecnologia de Banco
 - 📞(55) 51 9-9805-7640
 
 
