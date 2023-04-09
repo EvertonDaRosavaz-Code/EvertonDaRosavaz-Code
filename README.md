@@ -1,8 +1,13 @@
 ## Ola, Meu nome é Everton
 - 👨‍💻 Estudando HTMl, CSS, JavaScript, PHP, e Tecnologia de Banco
 - 📞(55) 51 9-9805-7640
+##
+<div display: "flex">
+   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" style="height: 35px;"> <br>
+   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="height: 35px;"> <br>
+</div>
    
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" style:height:5px;><br>
  
   <div align="center" display="flex">
   <a href="https://github.com/EvertonDaRosavaz-Code">
