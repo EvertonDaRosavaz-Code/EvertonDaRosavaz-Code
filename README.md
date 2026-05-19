@@ -1,6 +1,6 @@
 # 👨‍💻 Everton da Rosa Vaz
 
-**`Desenvolvedora Back-end`**
+**`Desenvolvedor Back-end`**
 
 
 
