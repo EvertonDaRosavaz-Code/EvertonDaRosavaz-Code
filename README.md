@@ -1,5 +1,15 @@
 # 👨‍💻 Everton da Rosa Vaz
+Sou estudante de Engenharia de Software com interesse em construir tecnologia que tenha utilidade prática no mundo real.
+Tenho curiosidade por sistemas, automação, inteligência artificial,soluções que unem tecnologia com gestão e negócios.
+Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos que resolvam problemas reais e gerem valor para pessoas e empresas.
 
+### Interesses
+🔹 Desenvolvimento Back-end  
+🔹 Python e automação  
+🔹 Engenharia de Software  
+🔹 Matemática aplicada à computação
+
+Sempre aberto a aprender, construir e evoluir 🚀
 **`Desenvolvedor Back-end`**
 <div align="left">
   
