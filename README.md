@@ -63,10 +63,8 @@ interesses = [
 ## 🚀 Jornada atual
 
 ```
-🎓  Engenharia de Software          — em andamento
-🐍  Python — do print() ao CRUD     — ✅ concluído
-⚙️  Automação e scripts             — estudando
-🤖  Inteligência Artificial         — próximo passo
+🎓  Engenharia de Software          — em andament
+
 ```
 
 ---
