@@ -22,8 +22,6 @@ interesses = [
     "Desenvolvimento Back-end",
     "Python e automação",
     "Engenharia de Software",
-    "Matemática aplicada à computação",
-    "Inteligência Artificial",
 ]
 ```
 
